@@ -1,0 +1,59 @@
+body{
+    color: #5bc0de;
+    font-family: "Bebas Neue", sans-serif;
+    background-color: honeydew;
+}
+
+
+.form-group{
+    text-align: center; 
+}
+
+.fa-map-marker-alt,
+.fa-dot-circle {
+  color: #5bc0de;
+}
+.jumbotron
+{
+    background-color: transparent;
+    margin: 0; 
+    padding: 10px; 
+}
+
+
+/*font size for the title */
+.jumbotron h1
+{
+    font-size: 8em; 
+    font-weight: bold; 
+
+}
+
+.jumbotron h1,
+.jumbotron p{
+    text-align: center;
+}
+
+/* font size for the subheader*/
+.jumbotron p{
+    font-size: 3em; 
+}
+
+/** use the hash because its an id not a class*/
+#googleMap{
+    width: 80%;
+    height: 400px;
+    /*centered*/
+    margin: 20px auto; 
+}
+
+/*output box*/
+#output {
+    text-align: center;
+    font-size: 2em;
+    margin: 20px auto;
+  }
+  
+  #mode {
+    color: black;
+  }
