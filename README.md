@@ -1,4 +1,4 @@
-Used HTML, CSS, Javascript.
+Used HTML, CSS, and Javascript.
 
 Implemented: 
 - Google Distance API
