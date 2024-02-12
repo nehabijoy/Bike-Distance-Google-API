@@ -1,3 +1,6 @@
+Purpose: On my college campus I bike to and from areas. I wanted to make a site that could calculate bike specific unit of measurements (time and distance necessary). 
+Result: A cycling friendly site that provides ETA and distance for bike travel. 
+
 Used HTML, CSS, and Javascript.
 
 Implemented: 
